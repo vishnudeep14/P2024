@@ -1,0 +1,11 @@
+opencv-python
+seaborn
+tensorflow
+numpy
+xarray
+keras
+matplotlib
+scipy
+h5py
+imageio
+streamlit
