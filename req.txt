@@ -9,3 +9,4 @@ scipy
 h5py
 imageio
 streamlit
+sklearn
